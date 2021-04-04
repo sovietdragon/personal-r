@@ -1,0 +1,2 @@
+Text ("hello world", 15,15)
+Var x=15
